@@ -26,7 +26,7 @@ I am a dedicated **Data Analyst & BI Specialist** passionate about transforming 
 
 ---
 
-### 🔹 Project 1: Sales Analytics & Performance Dashboard
+### Project 1: Sales Analytics & Performance Dashboard
 A high-level executive dashboard designed to monitor core sales performance metrics, compare target plans against actual revenue, and uncover YoY sales trajectory.
 
 * **Key Features:**
@@ -36,11 +36,10 @@ A high-level executive dashboard designed to monitor core sales performance metr
   * **Slicers:** Multi-level filtering by Year, Month, Country, Category, and Subcategory.
 
 #### Preview
-![Sales Analytics Dashboard](images/01_sales_dashboard.png)
-
+<img width="1919" height="986" alt="Screenshot_5" src="https://github.com/user-attachments/assets/99cde8bc-fc38-4827-88bd-fa40cb295aa5" />
 ---
 
-### 🔹 Project 2: Customer Segmentation & Loyalty Analytics
+### Project 2: Customer Segmentation & Loyalty Analytics
 An interactive customer-centric dashboard that explores purchasing habits, demographic breakdowns, and loyalty tier contribution.
 
 * **Key Features:**
@@ -49,11 +48,12 @@ An interactive customer-centric dashboard that explores purchasing habits, demog
   * **Customer KPIs:** Real-time metrics for Total Customers, Average Spending, and Average Orders per Customer.
 
 #### Preview
-![Customers Dashboard](images/02_customers_dashboard.png)
+<img width="1919" height="990" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e724e320-222f-4e55-be6b-9eae941d6cf9" />
+
 
 ---
 
-### 🔹 Project 3: Product Performance & Category Insights
+### Project 3: Product Performance & Category Insights
 A deep-dive visualization focused on product revenue, color performance, and identifying top and bottom performers for inventory optimization.
 
 * **Key Features:**
@@ -62,11 +62,12 @@ A deep-dive visualization focused on product revenue, color performance, and ide
   * **Financial Summary:** Instant executive view of Total Revenue ($6.41M) and Total Orders (8,153).
 
 #### Preview
-![Product Performance Dashboard](images/03_product_performance.png)
+<img width="1919" height="987" alt="Screenshot_2" src="https://github.com/user-attachments/assets/368bdc9c-22a0-405e-b0f7-701795f151ae" />
+
 
 ---
 
-### 🔹 Project 4: Granular Product Ledger & Line-Item Details
+### Project 4: Granular Product Ledger & Line-Item Details
 A detailed operational report bridging high-level metrics with itemized transactional records.
 
 * **Key Features:**
@@ -75,11 +76,12 @@ A detailed operational report bridging high-level metrics with itemized transact
   * **Daily Volume Trends:** Line chart monitoring `QuantitySold` fluctuations over specific date ranges.
 
 #### Preview
-![Product Details Dashboard](images/04_product_details.png)
+<img width="1919" height="985" alt="Screenshot_3" src="https://github.com/user-attachments/assets/5563e07b-4562-412c-984c-f98f28e44d19" />
+
 
 ---
 
-### 🔹 Project 5: Time Intelligence & Trend Forecasting
+### Project 5: Time Intelligence & Trend Forecasting
 An advanced temporal analytics suite utilizing DAX Time Intelligence functions to evaluate cumulative sales performance and seasonal trends.
 
 * **Key Features:**
@@ -88,11 +90,12 @@ An advanced temporal analytics suite utilizing DAX Time Intelligence functions t
   * **Country Comparison:** Multi-select country filters (Australia, Canada, France, Germany, UK, USA) with historical comparison lines (`SalesSPLY` vs `SalesYTD`).
 
 #### Preview
-![Time Intelligence Dashboard](images/05_time_intelligence.png)
+<img width="1919" height="988" alt="Screenshot_4" src="https://github.com/user-attachments/assets/4dc2961e-f3af-461f-a8c7-af39a7bf9e1e" />
+
 
 ---
 
-### 🔹 Project 6: Dynamic Parameter & Service Analytics
+###  Project 6: Dynamic Parameter & Service Analytics
 An interactive parameter-driven dashboard showcasing dynamic visual titles and sliced client demographics based on service selection.
 
 * **Key Features:**
@@ -101,11 +104,12 @@ An interactive parameter-driven dashboard showcasing dynamic visual titles and s
   * **Demographics Grid:** Age Category distribution and Eye Colour contingency matrix for tailored client insights.
 
 #### Preview
-![Treatment Parameter Dashboard](images/06_treatment_parameter.png)
+<img width="1919" height="987" alt="Screenshot_6" src="https://github.com/user-attachments/assets/79272547-83a3-4e13-ba17-b542584bdc3a" />
+
 
 ---
 
-### 🔹 Project 7: Python Integration & Custom Statistical Visuals
+###  Project 7: Python Integration & Custom Statistical Visuals
 Integration of custom Python scripts directly inside Power BI to extend standard visualization capabilities with custom statistical scatter plots.
 
 * **Key Features:**
@@ -114,7 +118,8 @@ Integration of custom Python scripts directly inside Power BI to extend standard
   * **Custom Aesthetics:** Custom color palettes, plot titles, gridlines, and axis labels generated via Python code.
 
 #### Preview
-![Python Scripting Dashboard](images/07_python_visualization.png)
+<img width="1913" height="452" alt="Screenshot_7" src="https://github.com/user-attachments/assets/9d4b727b-8cfe-49dc-8fae-6f639353283f" />
+
 
 ---
 
@@ -125,7 +130,8 @@ This portfolio is built on industry-standard data modeling practices, ensuring h
 * **DAX Query View & Measures:** Dedicated measure tables (`MeasuresTable`, `TimeIntelligence`) utilizing complex DAX for time intelligence, TOPN evaluation, dynamic parameters, and custom tabular evaluation.
 
 #### Preview
-![DAX Query View & Data Model](images/00_dax_query_view.png)
+<img width="1917" height="992" alt="Screenshot_8" src="https://github.com/user-attachments/assets/acc39754-8360-4835-90fe-64651fbf313e" />
+
 
 ---
 
@@ -133,10 +139,8 @@ This portfolio is built on industry-standard data modeling practices, ensuring h
 
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me:
 
-* **Email:** [ваша_почта@gmail.com](mailto:ваша_почта@gmail.com)
-* **LinkedIn:** [linkedin.com/in/ваш_профиль](https://linkedin.com)
-* **GitHub:** [github.com/ваш_логин](https://github.com)
-* **NovyPro / Portfolio:** [novypro.com/profile/ваш_профиль](https://novypro.com)
+* **Email:** [batyrlan0613@gmail.com)
+* **GitHub:** [https://github.com/batyrlanmukanov)
 
 ---
 
